@@ -1,3 +1,4 @@
 [DuckDuckGo](https://duckduckgo.com)  
-[Discord](https://discord/com/app)
+[Discord](https://discord.com/app)  
+[ChatGPT](https://chatgpt.com)
  
